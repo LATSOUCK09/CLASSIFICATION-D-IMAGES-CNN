@@ -1,7 +1,6 @@
-streamlit==1.21.0
-tensorflow==2.10.0
-numpy==1.23.5
-pillow==9.5.0
-protobuf==3.19.6
+streamlit
+tensorflow
 torch==2.0.1
 torchvision==0.15.2
+numpy==1.23.5
+pillow==9.3.0
