@@ -1,9 +1,1 @@
 
-
-# Ignorer les fichiers temporaires
-__pycache__/
-*.py[cod]
-
-# Ignorer les environnements virtuels
-venv/
-.env
